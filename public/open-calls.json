@@ -1,0 +1,50 @@
+[
+  {
+    "id": "oc1",
+    "name": "Introduction to Web3",
+    "shortDescription": "A beginner-friendly course on Web3 fundamentals",
+    "fullDescription": "This course aims to introduce newcomers to the world of Web3, covering basic concepts, technologies, and use cases.",
+    "outline": [
+      "What is Web3?",
+      "Blockchain fundamentals",
+      "Cryptocurrencies and tokens",
+      "Decentralized applications (dApps)",
+      "Smart contracts"
+    ],
+    "openSlots": 3,
+    "status": "active",
+    "applyUrl": "https://github.com/The-Web3-Compass/web3-compass-data-repository"
+  },
+  {
+    "id": "oc2",
+    "name": "Advanced DeFi Protocols",
+    "shortDescription": "Deep dive into decentralized finance protocols",
+    "fullDescription": "This course will explore advanced topics in DeFi, focusing on popular protocols, their mechanisms, and potential risks.",
+    "outline": [
+      "Overview of DeFi ecosystem",
+      "Lending and borrowing protocols",
+      "Automated Market Makers (AMMs)",
+      "Yield farming strategies",
+      "DeFi risks and security"
+    ],
+    "openSlots": 2,
+    "status": "active",
+    "applyUrl": "https://github.com/The-Web3-Compass/web3-compass-data-repository"
+  },
+  {
+    "id": "oc3",
+    "name": "NFT Creation Workshop",
+    "shortDescription": "Learn to create and launch your own NFTs",
+    "fullDescription": "This hands-on workshop will guide participants through the process of creating, minting, and launching their own NFT collections.",
+    "outline": [
+      "NFT basics and use cases",
+      "Choosing the right blockchain",
+      "Creating digital art for NFTs",
+      "Minting process and tools",
+      "Marketing and selling your NFTs"
+    ],
+    "openSlots": 0,
+    "status": "closed",
+    "applyUrl": "https://github.com/The-Web3-Compass/web3-compass-data-repository"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Sethu Raman",
+    "role": "Developer Advocate",
+    "bio": "A passionate developer advocate dedicated to connecting developers with the world of decentralized tech",
+    "image": "/profile/sethu.jpg",
+    "twitter": "https://x.com/Sethu_Raman_O",
+    "github": "https://github.com/SethuRamanOmanakuttan"
+  },
+  {
+    "name": "The Caffeinated CEO",
+    "role": "Smart contract Developer",
+    "bio": "Tech-loving, book-devouring, coffee-fueled developer who’s all about people and great conversations.",
+    "image": "/profile/caffinated-ceo.jpg",
+    "twitter": "https://x.com/_CaffeinatedCEO",
+    "github": "https://github.com/caffceo"
+  },
+  {
+    "name": "Tony Thomas",
+    "role": "Frontend Developer",
+    "bio": "Frontend  Developer with 4+ years of experience crafting super-smooth, user-friendly Web3 apps",
+    "image": "/profile/tony.jpeg",
+    "twitter": "https://x.com/thetonyth",
+    "github": "https://github.com/0xtonyth"
+  },
+  {
+    "name": "Sidharth Suresh",
+    "role": "Backend Developer",
+    "bio": "A crypto nerd and backend guru with a knack for transforming complex tech into smooth-running systems",
+    "image": "/profile/sid.jpeg",
+    "twitter": "https://x.com/SidharthS77",
+    "github": "https://github.com/sidharthsuresh"
+  }
+]

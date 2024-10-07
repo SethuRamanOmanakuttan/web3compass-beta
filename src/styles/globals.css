@@ -1,0 +1,28 @@
+/* src/styles/globals.css */
+@import url("https://fonts.googleapis.com/css2?family=Tourney:ital,wght@0,100..900;1,100..900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  @apply bg-retro-white text-retro-black font-retro;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-bold;
+}
+a {
+  @apply text-retro-black hover:text-retro-accent transition-colors;
+}
+.retro-button {
+  @apply bg-retro-white text-retro-black border-3 border-retro-black px-4 py-2 shadow-retro hover:bg-retro-accent transition-colors;
+}
+.retro-input {
+  @apply bg-retro-white text-retro-black border-3 border-retro-black px-4 py-2 shadow-retro focus:outline-none focus:ring-2 focus:ring-retro-accent;
+}
+.retro-card {
+  @apply bg-retro-white border-3 border-retro-black p-6 shadow-retro-lg hover:shadow-retro transition-shadow;
+}
